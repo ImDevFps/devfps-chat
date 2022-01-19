@@ -9,9 +9,18 @@
 .ce-chat-list {
   background-color: rgb(240, 240, 240) !important;
 }
+.ce-chat-list-column {
+  height: 95vh !important;
+}
 
 .ce-chats-container {
   background-color: rgb(240, 240, 240) !important;
+}
+.ce-chat-feed-column {
+  height: 95vh !important;
+}
+.ce-settings-column {
+  height: 95vh !important;
 }
 
 .ce-active-chat-card {
@@ -298,4 +307,21 @@
 .button:hover span:after {
   opacity: 1;
   right: 0;
+}
+.logout {
+  background-color: #cbc7d0;
+  height: 5vh;
+  position: sticky;
+  text-align: right;
+  padding: 5px;
+}
+
+.logout button {
+  cursor: pointer;
+  background-color: rgb(228, 192, 30);
+  border: none;
+  padding: 5px 10px;
+  border-radius: 20px;
+  color: white;
+  text-align: center;
 }
