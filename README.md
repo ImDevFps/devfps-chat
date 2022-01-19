@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### created by `chatengine.io`
 
-this application is based on chatengine.io [https://chatengine.io/]
+this application is based on chatengine.io: [https://chatengine.io/](https://chatengine.io/)
