@@ -57,6 +57,8 @@ const LoginForm = () => {
             <button type='submit' className='button'>
               <span>Start Chatting</span>
             </button>
+            <span className='test-user'>username: Test</span>
+            <span className='test-user'>password: 1234512345</span>
           </div>
           <h2 className='error'>{error}</h2>
         </form>

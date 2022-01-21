@@ -308,6 +308,19 @@
   opacity: 1;
   right: 0;
 }
+
+.test-user {
+  display: block;
+  width: 90%;
+  text-align: left;
+  font-size: 18px;
+  color: rgb(255, 51, 0);
+  margin: 15px;
+  background-color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-transform: capitalize;
+}
 .logout {
   background-color: #cbc7d0;
   height: 5vh;
